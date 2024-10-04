@@ -5,8 +5,14 @@ homepage: https://github.com/hanskokx/arcane_analysis
 repository: https://github.com/hanskokx/arcane_analysis
 documentation: https://github.com/hanskokx/arcane_analysis
 issue_tracker: https://github.com/hanskokx/arcane_analysis/issues
-topics: [lints, analyzer, analysis, linting rules, linter, arcane_framework, arcane]
+
+topics:
+  - lints
+  - analysis
+  - linter
+  - arcane-framework
 
 environment:
   sdk: ^3.5.3
-
+dev_dependencies:
+  flutter_lints: ^5.0.0
