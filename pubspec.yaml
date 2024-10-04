@@ -1,6 +1,6 @@
 name: arcane_analysis
 description: Linting rules for Dart and Flutter used by the Arcane Framework
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/hanskokx/arcane_analysis
 repository: https://github.com/hanskokx/arcane_analysis
 documentation: https://github.com/hanskokx/arcane_analysis
@@ -14,5 +14,3 @@ topics:
 
 environment:
   sdk: ^3.5.3
-dev_dependencies:
-  flutter_lints: ^5.0.0
