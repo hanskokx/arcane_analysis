@@ -1,3 +1,7 @@
+## 1.0.4
+
+- Preserves tailing commas
+
 ## 1.0.3
 
 - Added the following linting rules:
