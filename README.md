@@ -1,4 +1,4 @@
-This package provides lint rules for Dart and Flutter which are used by the [Arcane Framework](https://github.com/hanskokx/arcane_framework). For more information, see the [complete list of options](https://github.com/hanskokx/arcane_analysis/blob/main/lib/analysis_options.1.0.0.yaml).
+This package provides lint rules for Dart and Flutter which are used by the [Arcane Framework](https://github.com/hanskokx/arcane_framework). For more information, see the [complete list of options](https://github.com/hanskokx/arcane_analysis/blob/main/lib/analysis_options.1.0.5.yaml).
 
 **Note**: Although the linting rules differ, the package layout has taken enormous inspiration from the excellent [very_good_analysis](https://github.com/VeryGoodOpenSource/very_good_analysis) package from [Very Good Ventures](https://verygood.ventures/), which was in turn heavily inspired by [pedantic](https://github.com/dart-lang/pedantic).
 
